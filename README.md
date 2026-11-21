@@ -4,8 +4,8 @@ This project is a suitcase which unfolds into a go-kart, modeled after the Mazda
 The idea for using an electric scooter as the steering system comes from the youtuber "Bucket".
 None of this is final yet! this line of text will be removed when it is final.
 
-How it works.
+# How it works.
 The Suitcase-Car starts has a 48v e-bike battery paired with a 48v, 1800w, 4500rpm, Vevor brushless motor, driven on a chain to the axel. The axel on the BOM is 48in, but to make the kart you will need to cut the axel into two 6in pieces and one 36in piece. This is because you want to disconnect the wheels and long axel from the rest of the suitcase so it can be packed effectively. The axel pieces will be clamped together with a coupling specified in the BOM, you can choose to replace this with a coupling without set screws if you want faster disassembly, I have chosen the set screw one for affordablilty. The rest of the assembly is incredibly simple, the subframe gets bolted in directly to the suitcase, the sprockets are bolted on with the attachment hubs, etc. Almost everything is CAD accurate dimensions wise, so just follow that, you can velcro the battery, and motor controller for ease of removal, bolt the motor down. The only thing that needs extra instruction is the steering system.
 
-The steering system:
+# The steering system:
 The steering system is likely the most mechanically difficult part of the Go-Kart.
